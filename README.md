@@ -1,7 +1,6 @@
 # Elasticsearch Golang Service
-Simple search app service built in go using elasticsearch. This app was built following the tutorial [How to Build a Search Service with Go and Elasticsearch](https://outcrawl.com/go-elastic-search-service)
-
-## Instalation
+Simple search app service built in go using elasticsearch.
+## Installation
 
 Clone this repository
 ```
